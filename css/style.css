@@ -40,6 +40,15 @@
 	flex-direction: column;
 	align-items: center;
 }
-input {
-	background-color: transparent;
+.container-2 icons {
+	margin: 70%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.footer {
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
