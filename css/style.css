@@ -1,3 +1,6 @@
+@-ms-viewport {
+	width: device-width;
+}
 .img1 {
 	background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
 	background-size: cover;
@@ -26,6 +29,15 @@
 	color: white;
 }
 .row {
+	align-items: center;
+	justify-content: center;
+}
+.img2 {
+	background-image: url();
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 }
