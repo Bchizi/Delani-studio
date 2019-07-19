@@ -1,0 +1,22 @@
+.img1 {
+	background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
+	height: 100vh;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+.aboutus {
+	/* height: 30vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    color: black; */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
