@@ -32,12 +32,14 @@
 	align-items: center;
 	justify-content: center;
 }
-.img2 {
-	background-image: url();
+.img3 {
+	background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
 	background-size: cover;
 	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	justify-content: center;
+}
+input {
+	background-color: transparent;
 }
