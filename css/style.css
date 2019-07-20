@@ -33,7 +33,6 @@
 	justify-content: center;
 }
 .container-images {
-	align-content: center;
 }
 .img3 {
 	background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
@@ -42,6 +41,10 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	color: white;
+}
+form {
+	width: 70%;
 }
 .container-2 {
 	text-align: center;
