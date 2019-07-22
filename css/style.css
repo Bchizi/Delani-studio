@@ -1,7 +1,14 @@
 @-ms-viewport {
 	width: device-width;
 }
-
+body {
+	font-family: 'Nunito', sans-serif;
+	font-size: 190%;
+}
+h1 {
+	font-family: 'Hanalei Fill', cursive;
+	/* color: black; */
+}
 .img1 {
 	background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
 	background-size: cover;
@@ -54,4 +61,16 @@ form {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
+}
+#work1:hover {
+	color: aliceblue;
+}
+input,
+textarea {
+	color: white; 	`g			
+}
+#work1:hover{
+	border-image-width: 70%;
+	height: auto;
+	color: aqua;
 }
