@@ -44,7 +44,7 @@ $(document).ready(function () {
         if (Name == '' || Email == '' || Message == '') {
             alert('Please make sure you have filled in the form correctly!');
         } else {
-            alert('We have received your message. Thank you for reaching out to us.');
+            alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
         }
 
     })
