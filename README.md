@@ -1,12 +1,8 @@
 # DELANI STUDIO
-##### {does simple calculations}.
 #### By **Leon Bichanga**
-## Description 
-##### {does simple interpretation of your birthdate to an an aka day name}
-#### By **Leon Bichanga**
-## Description 
-It calculates the actuall day of the week andgives an out put of your aka name.
 
+## Description 
+The website is responsive in that it when you input and submit an alert pop up will say that you are succefull
 
 ## Technologies used
 * HTML
