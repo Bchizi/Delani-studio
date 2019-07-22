@@ -2,7 +2,8 @@
 #### By **Leon Bichanga**
 
 ## Description 
-The website is responsive in that it when you input and submit an alert pop up will say that you are succefull
+The website is responsive in that it when you input and submit an alert pop up will say that you hav submitted succefull.
+There is also a toggle effect where by on click image a paragraph will appear.
 
 ## Technologies used
 * HTML
