@@ -10,7 +10,8 @@ There is also a toggle effect where by on click image a paragraph will appear.
 * CSS
 * jAVASCRIPT
 * JQUERY
-
+## Bug
+The portfolio part should bring up a nameinside it but i kinda got stuck.
 ## Contact
 * leonbichanga@gmail.com
 ## Licence
